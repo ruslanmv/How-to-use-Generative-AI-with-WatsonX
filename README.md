@@ -2,7 +2,7 @@
 
 Hello everyone, today we are going to use **IBM watsonx .**
 
-We are interested to **generate email for marketing campaign** and generate **thank you note for workshop attendees** by using Artificial Intelligence.
+In this blog post we are going to explain how to use Generative AI to **summarize**, **classify**, **extract**, **generate**  and  **answering questions** from a text.
 
 ## Introduction
 
