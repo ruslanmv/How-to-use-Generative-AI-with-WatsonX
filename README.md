@@ -193,4 +193,4 @@ So temperature increases variety, while top-p and top-k reduce variety and focus
 
 ![image-20230801174326796](assets/images/posts/README/image-20230801174326796.png)
 
-**Congratulations!** We have tested Generative AI with IBM  WatsonX 
+**Congratulations!** We have used Generative AI with IBM  WatsonX 
